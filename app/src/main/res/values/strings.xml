@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Recover</string>
+    <string name="accessibility_service_label">Recover App Blocker</string>
+    <string name="accessibility_service_description">Allows Recover to detect when a selected distracting app is opened during focus sessions and enforce your blocking and temporary 60-second unlock rules. Recover does not read or transmit personal screen content.</string>
+</resources>
